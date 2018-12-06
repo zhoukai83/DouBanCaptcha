@@ -1,0 +1,4 @@
+captcha_output/
+captcha_pre/**
+.idea/
+__pycache__/
